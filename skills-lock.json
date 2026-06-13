@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "theoros": {
+      "source": "marinoszago/theoros",
+      "sourceType": "github",
+      "skillPath": "skills/theoros/SKILL.md",
+      "computedHash": "fba08b984318238672d1768027e4ca8301939f095b610ef3e8e4448d7c0a7a85"
+    }
+  }
+}

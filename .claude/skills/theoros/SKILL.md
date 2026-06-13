@@ -1,0 +1,1 @@
+../../../skills/theoros/SKILL.md
