@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "author": {
     "name": "Marinos Zagkotsis",
-    "email": "marinoszagkotsis@gmail.com"
+    "email": "marinoszago@gmail.com"
   },
-  "repository": "https://github.com/marinoszagkotsis/theoros",
+  "repository": "https://github.com/marinoszago/theoros",
   "license": "MIT",
   "keywords": [
     "orchestration",
