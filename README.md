@@ -1,5 +1,10 @@
 # theoros
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/marinoszago/theoros/releases)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugin-blueviolet)](https://github.com/anthropics/claude-code)
+[![GitHub Stars](https://img.shields.io/github/stars/marinoszago/theoros?style=social)](https://github.com/marinoszago/theoros)
+
 > *Structured problem discovery, model selection, cost estimation, and execution tracking for complex Claude Code tasks.*
 
 Named for the ancient Greek concept of careful observation before action.
@@ -131,6 +136,10 @@ theoros/
 ## Contributing
 
 Issues and pull requests are welcome. The plugin logic lives entirely in `skills/theoros/SKILL.md` — no build step or dependencies required.
+
+## Author
+
+**Marinos Zagkotsis** — [github.com/marinoszago](https://github.com/marinoszago)
 
 ## License
 
