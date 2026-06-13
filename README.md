@@ -87,6 +87,16 @@ You can choose **different models for planning and implementation** — for exam
 
 ---
 
+## Reloading Skills
+
+After installing or updating theoros, reload skills in Claude Code so the `/theoros` command is available without restarting:
+
+```text
+/skills reload
+```
+
+---
+
 ## Session Persistence & `/compact`
 
 Theoros saves state to `.theoros/session.json` after every phase. If the context gets compacted or the session ends mid-task, just run `/theoros` again — it detects the saved session and resumes from the next pending step.
