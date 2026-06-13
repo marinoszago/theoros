@@ -1,0 +1,20 @@
+{
+  "name": "theoros",
+  "description": "Meta-orchestrator for Claude Code: structured problem discovery, model selection, token cost estimation, visual progress tracking, and context health monitoring for complex tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marinos Zagkotsis",
+    "email": "marinoszagkotsis@gmail.com"
+  },
+  "repository": "https://github.com/marinoszagkotsis/theoros",
+  "license": "MIT",
+  "keywords": [
+    "orchestration",
+    "planning",
+    "workflow",
+    "cost-estimation",
+    "progress-tracking",
+    "claude-code",
+    "meta-orchestrator"
+  ]
+}
